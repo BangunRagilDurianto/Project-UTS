@@ -1,0 +1,20 @@
+.tabel {
+    background-color: antiquewhite;
+}
+
+.mx-5 {
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: darksalmon !important;
+    font-weight: bold !important;
+    letter-spacing: 0.1em;
+    transition: 0.5s;
+}
+
+.btn-primary:hover {
+    background: var(--clr);
+    letter-spacing: 0.15em;
+    box-shadow: 0 0 13px var(--clr);
+}

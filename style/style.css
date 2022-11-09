@@ -1,0 +1,32 @@
+.mx-5 {
+    text-align: center;
+    background-color: darksalmon !important;
+    padding: 10px;
+    width: 45% !important;
+    -webkit-box-shadow:5px 5px 5px #111;
+    box-shadow:5px 5px 5px #111;
+    border-radius: 10px;
+}
+
+.btn-primary {
+    background-color: darksalmon !important;
+    font-weight: bold !important;
+    letter-spacing: 0.1em;
+    transition: 0.5s;
+}
+
+.btn-primary:hover {
+    background: var(--clr);
+    letter-spacing: 0.15em;
+    box-shadow: 0 0 13px var(--clr);
+}
+
+.container {
+    background-color: antiquewhite;
+    height: 420px;
+    padding: 20px;
+}
+
+.form-label {
+    font-weight: bold;
+}
